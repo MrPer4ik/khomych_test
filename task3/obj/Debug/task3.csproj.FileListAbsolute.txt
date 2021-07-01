@@ -1,7 +1,0 @@
-D:\khomych_test\task3\bin\Debug\task3.exe.config
-D:\khomych_test\task3\bin\Debug\task3.exe
-D:\khomych_test\task3\bin\Debug\task3.pdb
-D:\khomych_test\task3\obj\Debug\task3.csprojAssemblyReference.cache
-D:\khomych_test\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
-D:\khomych_test\task3\obj\Debug\task3.exe
-D:\khomych_test\task3\obj\Debug\task3.pdb
