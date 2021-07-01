@@ -1,0 +1,7 @@
+D:\khomych_test\task2\bin\Debug\task2.exe.config
+D:\khomych_test\task2\bin\Debug\task2.exe
+D:\khomych_test\task2\bin\Debug\task2.pdb
+D:\khomych_test\task2\obj\Debug\task2.csprojAssemblyReference.cache
+D:\khomych_test\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\khomych_test\task2\obj\Debug\task2.exe
+D:\khomych_test\task2\obj\Debug\task2.pdb
